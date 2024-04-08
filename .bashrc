@@ -45,4 +45,3 @@ nvims() {
 }
 
 bind -x '"\C-n": nvims'
-alias config='/usr/bin/git --git-dir=/home/austin/.cfg/ --work-tree=/home/austin'
